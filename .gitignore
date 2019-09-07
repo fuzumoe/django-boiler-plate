@@ -1,0 +1,10 @@
+**/env/*
+*.pyc  
+/.vscode
+.idea
+vcs.xml
+misc.xml
+modules.xml
+dev-setup.imi
+/venv
+/__pycache__
